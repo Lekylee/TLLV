@@ -11,14 +11,14 @@
             "id": "1dae29ec92572f89",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "1 The World/World Name.md",
-                "bFile": "1 The World/World Name.md",
-                "aRef": ""
+                "file": "1 The World/World Name.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: World Name"
+              "icon": "lucide-file",
+              "title": "World Name"
             }
           }
         ]
@@ -160,6 +160,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c242aaf5c98fc41a",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
         "currentTab": 4
@@ -181,11 +191,11 @@
   },
   "active": "1dae29ec92572f89",
   "lastOpenFiles": [
+    "Combat/Combat.md",
+    "1 The World/Game Name.md",
+    "1 The World/Spirit World Equivalent.md",
     "1 The World/World Name.md",
     "Character/Stats and Skills.md",
-    "Combat/Combat.md",
-    "1 The World/Spirit World Equivalent.md",
-    "1 The World/Game Name.md",
     "References/Manuscripts",
     "References/Untitled.md",
     "References/Cultural Backgrounds",
