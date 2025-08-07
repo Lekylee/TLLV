@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": "1 The World/World Name.md",
+                "bFile": "1 The World/World Name.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: World Name"
             }
           }
         ]
@@ -182,10 +182,10 @@
   "active": "1dae29ec92572f89",
   "lastOpenFiles": [
     "1 The World/World Name.md",
-    "1 The World/Game Name.md",
-    "Combat/Combat.md",
     "Character/Stats and Skills.md",
+    "Combat/Combat.md",
     "1 The World/Spirit World Equivalent.md",
+    "1 The World/Game Name.md",
     "References/Manuscripts",
     "References/Untitled.md",
     "References/Cultural Backgrounds",
