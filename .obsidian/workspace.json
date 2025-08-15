@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 The World/World Name.md",
+                "file": "1 The World/Kaewng Hu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World Name"
+              "title": "Kaewng Hu"
             }
           }
         ]
@@ -191,11 +191,13 @@
   },
   "active": "1dae29ec92572f89",
   "lastOpenFiles": [
+    "1 The World/Sammoi.md",
+    "1 The World/Kaewng Hu.md",
     "Combat/Combat.md",
+    "Character/Stats and Skills.md",
+    "Character/Cultural Background.md",
     "1 The World/Game Name.md",
     "1 The World/Spirit World Equivalent.md",
-    "1 The World/World Name.md",
-    "Character/Stats and Skills.md",
     "References/Manuscripts",
     "References/Untitled.md",
     "References/Cultural Backgrounds",
@@ -209,7 +211,6 @@
     "Untitled 1.canvas",
     "Character/Combat Archetypes.md",
     "Character/2 Combat Archetypes",
-    "1 The World/Untitled.md",
     "Character/Social Stats.md",
     "Character",
     "Combat/Dragon Rolls (Soomin Draft).md",

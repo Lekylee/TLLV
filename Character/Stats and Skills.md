@@ -10,7 +10,7 @@ Weapons also have a PHY stat to represent damage.
 ## Dexterity 
 DEX represents a character's how coordinated a character is. Accuracy with range weapons, dodging attacks, parrying, disarming, taking cover, etc all fall under DEX
 # Skills
-There are as many skills on [[World Name]] as there are in your reality (if not more counting magic). Starting skills are provided by your [[Cultural Background]], [[Traits]], [[Social Class]], and [[Combat Archetype]]. 
+There are as many skills on [[Sammoi]] as there are in your reality (if not more counting magic). Starting skills are provided by your [[Cultural Background]], [[Traits]], [[Social Class]], and [[Combat Archetype]]. 
 
 
 
