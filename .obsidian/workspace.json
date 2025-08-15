@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "606e8ed3867171a2",
+        "id": "c71375d5fadef09e",
         "type": "tabs",
         "children": [
           {
-            "id": "1dae29ec92572f89",
+            "id": "1be4ef053d82ce1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 The World/World Name.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "World Name"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 The World/Game Name.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Game Name"
+              "title": "Outline"
             }
           },
           {
@@ -160,23 +155,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "c242aaf5c98fc41a",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,13 +174,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1dae29ec92572f89",
+  "active": "1be4ef053d82ce1b",
   "lastOpenFiles": [
-    "Combat/Combat.md",
-    "1 The World/Game Name.md",
-    "1 The World/Spirit World Equivalent.md",
     "1 The World/World Name.md",
     "Character/Stats and Skills.md",
+    "Untitled.canvas",
+    "1 The World/Game Name.md",
+    "Combat/Combat.md",
+    "1 The World/Spirit World Equivalent.md",
     "References/Manuscripts",
     "References/Untitled.md",
     "References/Cultural Backgrounds",
@@ -205,7 +191,6 @@
     "References/Combat Archetype Playbooks",
     "References",
     "2025-07-07.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Character/Combat Archetypes.md",
     "Character/2 Combat Archetypes",
