@@ -11,10 +11,14 @@
             "id": "1be4ef053d82ce1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 The World/World Name.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "World Name"
             }
           }
         ]
@@ -176,11 +180,11 @@
   },
   "active": "1be4ef053d82ce1b",
   "lastOpenFiles": [
-    "1 The World/World Name.md",
     "Character/Stats and Skills.md",
-    "Untitled.canvas",
-    "1 The World/Game Name.md",
+    "1 The World/World Name.md",
     "Combat/Combat.md",
+    "1 The World/Game Name.md",
+    "Untitled.canvas",
     "1 The World/Spirit World Equivalent.md",
     "References/Manuscripts",
     "References/Untitled.md",
